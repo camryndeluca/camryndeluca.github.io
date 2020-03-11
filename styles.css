@@ -2,3 +2,47 @@ h1 {
   color: #33485e;
   font-size: #36px;
 }
+
+#aboutpic {
+      max-width: 400px;
+      width: 200%;
+      margin: auto 13px;
+}
+
+.directory , ul , h1 , h2 , h3 , h4 {
+        font-family: 'Roboto', sans-serif;
+}
+
+p , li , h5 {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.aboutbg {
+      width: 100px;
+      height: 100px;
+      background-color: #FFB487;
+}
+
+.divtwo {
+  width: 100px;
+  height: 100px;
+  background-color: #FF827A;
+}
+
+.divthree {
+  width: 100px;
+  height: 100px;
+  background-color: #E88D68;
+}
+
+.divfour {
+  width: 100px;
+  height: 100px;
+  background-color: #E87564;
+}
+
+.divfive {
+  width: 100px;
+  height: 100px;
+  background-color: #C25553; 
+}
